@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 New branch for Alice.
 Setting up divergent merge.
 more text for Alice
+change to master.
